@@ -7,11 +7,13 @@ public class StaticBlock {
         System.out.println("one");
     }
 
-//    if we use Constructor it load every time when object created
-//  public StaticBlock(){
-//      age = 40;
-//       System.out.println("construct");
-//    }
+/*
+    if we use Constructor it load every time when object created
+  public StaticBlock(){
+      age = 40;
+       System.out.println("construct");
+    }
+*/
 
     public  void display (String name,int mark){
         System.out.println("name : "+name+", Mark : "+mark+", Age : "+age);
