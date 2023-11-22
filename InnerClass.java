@@ -40,6 +40,5 @@ public class InnerClass {
         NewClass.StaticSubClass ssc = new NewClass.StaticSubClass();
         ssc.DisplayFromStaicIc();                // Error ==> java: non-static variable name cannot be referenced from a static context
         ssc.DisplayFromStaicIcStaticVar();      //I am in Static SubClass my name is Gangadhar and my age is 21
-
     }
 }
