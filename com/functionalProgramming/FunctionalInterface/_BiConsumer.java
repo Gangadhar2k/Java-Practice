@@ -1,9 +1,6 @@
 package com.functionalProgramming.FunctionalInterface;
 
-import org.w3c.dom.ls.LSOutput;
-
 import java.util.function.BiConsumer;
-import java.util.function.BiFunction;
 
 class  studentOne{
     public String name;

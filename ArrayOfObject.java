@@ -19,7 +19,7 @@ public class ArrayOfObject {
 
 
 
-        Student stu[] = new Student[3];
+        Student[] stu = new Student[3];
         stu[0] = s1;
         stu[1] = s2;
         stu[2] = s3;
